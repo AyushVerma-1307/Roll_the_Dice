@@ -1,5 +1,3 @@
-from tkinter.font import BOLD
-from turtle import bgcolor
 from PIL import Image,ImageTk
 import random
 import tkinter
